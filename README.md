@@ -20,11 +20,23 @@
 ## 🛠 DevOps Skills
 - Docker
 
+## 📚 Libraries/Frameworks
+- ether.js
+- Next.js
+
 ## 🌟 Project Experience
 
 ### Main Project: Nemo App
 - **Description:** A web application for NemoProd company to manage corporate events in collaboration with Optical Center.
 - **Technologies Used:** Next.js, GraphQL, TypeScript, AWS, Node.js, Express, Docker, CSS
+
+### DAO Project on zkSync
+- **Description:** Created a token and redeployed Uniswap to make it compatible with zkSync. Developed the entire DAO website for the token launch and the earn section.
+- **Stack:** React, GraphQL, TypeScript, ether.js
+
+### NP-Habitat Website Project
+- **Description:** Front-end website development for a construction company, NP-Habitat.
+- **Stack:** React, Node.js
 
 ## 🖥 Experience with C/C++ and React
 
