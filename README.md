@@ -15,6 +15,7 @@
 - Shell Scripting
 - TypeScript
 - CSS
+- Nest.js
 
 ## ☁️ Cloud Skills
 - AWS
