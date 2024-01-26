@@ -57,5 +57,11 @@ Projects completed during École 42 training:
 ### Inception Project
 - **Description:** A project focused on Docker container manipulation to host a WordPress site. Involved setting up and managing containers, networks, and volumes.
 
+## 📈 GitHub Stats
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruzii&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruzii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
