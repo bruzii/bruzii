@@ -11,9 +11,14 @@ Full Stack Engineer
 - GraphQL
 - REST API
 - Shell Scripting
+- TypeScript
+- CSS
 
 ## Cloud Skills
 - AWS
+
+## DevOps Skills
+- Docker
 
 ## Project Experience
 - Main Project: Nemo App
