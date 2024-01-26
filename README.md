@@ -1,4 +1,6 @@
-# Full Stack Engineer Profile
+# Hello, I'm Bruce👋
+
+## Full Stack Engineer Profile
 
 ## 📚 Education
 - **École 42**
